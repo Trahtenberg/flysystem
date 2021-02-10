@@ -1,7 +1,7 @@
 {
     "name": "trahtenberg/flysystem",
     "type": "library",
-    "description": "Filesystem abstraction: Many filesystems, one API.",
+    "description": "Filesystem abstraction: Many filesystems, one API.(without PROPFIND !!!)",
     "keywords": [
         "filesystem", "filesystems", "files", "storage", "dropbox", "aws",
         "abstraction", "s3", "ftp", "sftp", "remote", "webdav",
